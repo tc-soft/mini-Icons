@@ -1,63 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW SE -->
-<?xml-stylesheet href="Cloud-02.css" type="text/css"?>
+<?xml-stylesheet href="21316-Cloud-02-27455b72-17d1-45cc-9ff1-9ee9ed5fbbaa.css" type="text/css"?>
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="162px" height="100px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
 viewBox="0 0 162 100"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <g id="Warstwa_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <rect class="fil0 str0" width="162" height="100"/>
-  <g id="_667578544">
+  <g id="_118977528">
    <g>
-    <ellipse class="fil1" cx="114" cy="20" rx="13" ry="12"/>
-    <ellipse class="fil1" cx="143" cy="22" rx="11" ry="10"/>
-    <ellipse class="fil1" cx="128" cy="15" rx="16" ry="15"/>
-    <rect class="fil1" x="114" y="27" width="28.5948" height="5.31813"/>
+    <ellipse class="fil0" cx="118" cy="18" rx="12" ry="11"/>
+    <ellipse class="fil0" cx="143" cy="19" rx="10" ry="9"/>
+    <ellipse class="fil0" cx="130" cy="13" rx="14" ry="13"/>
+    <rect class="fil0" x="117" y="24" width="25.1908" height="4.68506"/>
    </g>
-   <polygon class="fil2" points="125,19 119,27 113,19 117,19 117,11 121,11 121,19 "/>
-   <polygon class="fil3" points="142,19 136,11 130,19 134,19 134,27 138,27 138,19 "/>
+   <polygon class="fil1" points="127,17 122,24 116,17 120,17 120,10 123,10 123,17 "/>
+   <polygon class="fil2" points="142,17 137,10 132,17 135,17 135,24 139,24 139,17 "/>
   </g>
-  <rect class="fil4" x="27" y="49" width="20.4" height="20.2084"/>
-  <polygon class="fil5 str0" points="4,38 37,22 69,38 69,69 49,69 49,47 25,47 25,69 4,69 "/>
-  <polygon class="fil4" points="21,71 53,71 48,76 26,76 "/>
-  <rect class="fil6" x="9" y="97" width="76.7499" height="0.794"/>
-  <rect class="fil0 str0" x="31" y="34" width="11.4908" height="7.7976"/>
-  <line class="fil0 str0" x1="31" y1="38" x2="43" y2= "38" />
-  <line class="fil0 str0" x1="37" y1="42" x2="37" y2= "34" />
-  <rect class="fil4" x="32" y="95" width="5.29254" height="4.23467"/>
-  <rect class="fil6" transform="matrix(1.75239E-13 -2.02368 1.32333 1.07193E-14 37.1131 94.9739)" width="9.6" height="0.6"/>
-  <rect class="fil4" x="38" y="95" width="5.29254" height="4.23467"/>
-  <polygon class="fil4 str0" points="14,22 19,22 19,31 14,33 "/>
-  <rect class="fil7" x="149" y="29" width="12.7374" height="8.88492" rx="1" ry="1"/>
+  <rect class="fil3" x="26" y="49" width="20.493" height="20.3005"/>
+  <polygon class="fil4" points="4,38 37,22 69,38 69,69 49,69 49,47 24,47 24,69 4,69 "/>
+  <polygon class="fil5" points="20,70 53,70 48,75 26,75 "/>
+  <rect class="fil1 str0" x="31" y="34" width="11.5431" height="7.83314"/>
+  <line class="fil6 str1" x1="31" y1="38" x2="43" y2= "38" />
+  <rect class="fil7" x="126" y="29" width="6.02735" height="58.37"/>
+  <line class="fil6 str1" x1="37" y1="41" x2="37" y2= "34" />
+  <g id="_118979808">
+   <rect class="fil5" transform="matrix(2.80341E-14 -1.05851 1.51238 4.00547E-14 126.99 53.1949)" width="5.02279" height="2.81276"/>
+   <rect class="fil5" transform="matrix(2.80341E-14 -1.05851 1.51238 4.00547E-14 126.99 47.8774)" width="5.02279" height="2.81276"/>
+  </g>
+  <polygon class="fil5 str2" points="14,17 19,17 19,25 14,28 "/>
   <polygon class="fil8" points="0,35 37,16 73,35 73,38 37,19 0,38 "/>
-  <circle class="fil2" cx="155" cy="33" r="1"/>
-  <rect class="fil6" x="125" y="33" width="6" height="60.605"/>
-  <path class="fil7" d="M155 23c4,0 6,3 6,5l-2 0c0,-1 -1,-3 -4,-3 -2,0 -4,2 -4,3l-2 0c0,-2 3,-5 6,-5z"/>
-  <rect class="fil2" x="154" y="33" width="1.9422" height="3.67357"/>
-  <rect class="fil5 str0" x="104" y="84" width="48.2" height="9.2" rx="2" ry="2"/>
-  <rect class="fil0 str0" x="107" y="85" width="1.8" height="6.4"/>
-  <rect class="fil0 str0" x="109" y="85" width="1.8" height="6.4"/>
-  <rect class="fil0 str0" x="111" y="85" width="1.8" height="6.4"/>
-  <rect class="fil0 str0" x="113" y="85" width="1.8" height="6.4"/>
-  <rect class="fil0 str0" x="116" y="85" width="1.8" height="6.4"/>
-  <rect class="fil0 str0" x="118" y="85" width="1.8" height="6.4"/>
-  <rect class="fil0 str0" x="120" y="85" width="1.8" height="6.4"/>
-  <rect class="fil0 str0" x="122" y="85" width="1.8" height="6.4"/>
-  <rect class="fil0 str0" x="124" y="85" width="1.8" height="6.4"/>
-  <line class="fil0 str1" x1="128" y1="84" x2="128" y2= "33" />
-  <rect class="fil5" x="104" y="74" width="48.2" height="9.2" rx="2" ry="2"/>
-  <rect class="fil0 str0" x="127" y="85" width="1.8" height="6.4"/>
-  <rect class="fil5" x="104" y="64" width="48.2" height="9.2" rx="2" ry="2"/>
-  <rect class="fil8" x="144" y="80" width="5" height="1.4"/>
-  <rect class="fil8" x="144" y="70" width="5" height="1.4"/>
-  <rect class="fil6" x="80" y="44" width="6" height="52.7"/>
-  <rect class="fil6" transform="matrix(1.96498E-14 -1 0.494937 1.76675E-14 85.7 50.1)" width="6" height="79"/>
-  <rect class="fil7" x="149" y="91" width="12.7374" height="8.88492" rx="1" ry="1"/>
-  <circle class="fil2" cx="156" cy="95" r="1"/>
-  <path class="fil7" d="M156 86c3,0 5,2 5,5l-2 0c0,-2 -1,-4 -3,-4 -3,0 -5,2 -5,4l-2 0c1,-3 3,-5 7,-5z"/>
-  <rect class="fil2" x="155" y="96" width="1.9422" height="3.67357"/>
-  <line class="fil0 str1" x1="83" y1="97" x2="83" y2= "47" />
-  <line class="fil0 str1" x1="128" y1="48" x2="83" y2= "48" />
+  <line class="fil6 str3" x1="129" y1="87" x2="129" y2= "29" />
+  <rect class="fil4" x="106" y="67" width="46.2097" height="9.03616" rx="2" ry="2"/>
+  <rect class="fil5" x="146" y="73" width="4.24123" height="1.18755"/>
+  <rect class="fil7" x="85" y="45" width="6.02735" height="55.2507"/>
+  <rect class="fil7" transform="matrix(2.07513E-14 -1 0.522681 1.76675E-14 84.6231 50.8919)" width="6.02735" height="79.3601"/>
+  <line class="fil6 str3" x1="88" y1="100" x2="88" y2= "48" />
+  <line class="fil6 str3" x1="129" y1="48" x2="88" y2= "48" />
+  <line class="fil6 str3" x1="88" y1="94" x2="7" y2= "94" />
+  <g id="_118981272">
+   <rect class="fil7" transform="matrix(1.75239E-13 -2.02368 1.32333 1.07193E-14 36.2786 95.0047)" width="9.64375" height="0.602735"/>
+   <rect class="fil5" x="31" y="92" width="5.31666" height="4.25397"/>
+   <rect class="fil5" x="37" y="92" width="5.31666" height="4.25397"/>
+  </g>
+  <rect class="fil6 str4" x="109" y="69" width="9.44284" height="1.8082"/>
+  <rect class="fil6 str4" x="119" y="69" width="9.44284" height="1.8082"/>
+  <rect class="fil9" x="130" y="69" width="1.30593" height="1.8082"/>
+  <rect class="fil8" x="131" y="69" width="1.30593" height="1.8082"/>
+  <rect class="fil4" x="106" y="77" width="46.2097" height="9.03616" rx="2" ry="2"/>
+  <rect class="fil5" x="146" y="83" width="4.24123" height="1.18755"/>
+  <rect class="fil6 str4" x="109" y="79" width="9.44284" height="1.8082"/>
+  <rect class="fil6 str4" x="119" y="79" width="9.44284" height="1.8082"/>
+  <rect class="fil9" x="130" y="79" width="1.30593" height="1.8082"/>
+  <rect class="fil8" x="131" y="79" width="1.30593" height="1.8082"/>
+  <rect class="fil4" x="106" y="87" width="46.2097" height="9.03616" rx="2" ry="2"/>
+  <rect class="fil5" x="146" y="93" width="4.24123" height="1.18755"/>
+  <g id="_118984032">
+   <rect class="fil7" x="153" y="94" width="9.24231" height="6.2119" rx="1" ry="1"/>
+   <circle class="fil1" cx="158" cy="96" r="1"/>
+   <path class="fil7" d="M158 89c2,0 4,3 4,4l-3 0c0,-1 0,-2 -1,-2 -1,0 -2,1 -2,2l-2 0c0,-1 1,-4 4,-4z"/>
+   <polygon class="fil1" points="158,96 159,99 157,99 "/>
+  </g>
+  <rect class="fil10" x="108" y="88" width="2.00912" height="1.00456"/>
+  <rect class="fil10" x="111" y="88" width="2.00912" height="1.00456"/>
+  <rect class="fil10" x="114" y="88" width="2.00912" height="1.00456"/>
+  <rect class="fil10" x="117" y="88" width="2.00912" height="1.00456"/>
+  <rect class="fil10" x="120" y="88" width="2.00912" height="1.00456"/>
+  <rect class="fil10" x="123" y="88" width="2.00912" height="1.00456"/>
+  <rect class="fil10" x="126" y="88" width="2.00912" height="1.00456"/>
+  <rect class="fil10" x="129" y="88" width="2.00912" height="1.00456"/>
+  <rect class="fil10" x="132" y="88" width="2.00912" height="1.00456"/>
+  <rect class="fil10" x="135" y="88" width="2.00912" height="1.00456"/>
+  <rect class="fil10" x="138" y="88" width="2.00912" height="1.00456"/>
+  <rect class="fil10" x="141" y="88" width="2.00912" height="1.00456"/>
+  <rect class="fil6 str4" x="108" y="88" width="2.00911" height="7.03192"/>
+  <rect class="fil6 str4" x="111" y="88" width="2.00911" height="7.03192"/>
+  <rect class="fil6 str4" x="114" y="88" width="2.00911" height="7.03192"/>
+  <rect class="fil6 str4" x="117" y="88" width="2.00911" height="7.03192"/>
+  <rect class="fil6 str4" x="120" y="88" width="2.00911" height="7.03192"/>
+  <rect class="fil6 str4" x="123" y="88" width="2.00911" height="7.03192"/>
+  <rect class="fil6 str4" x="126" y="88" width="2.00911" height="7.03192"/>
+  <rect class="fil6 str4" x="129" y="88" width="2.00911" height="7.03192"/>
+  <rect class="fil6 str4" x="132" y="88" width="2.00911" height="7.03192"/>
+  <rect class="fil6 str4" x="135" y="88" width="2.00911" height="7.03192"/>
+  <rect class="fil6 str4" x="138" y="88" width="2.00911" height="7.03192"/>
+  <rect class="fil9" x="146" y="88" width="1.30593" height="1.8082"/>
+  <rect class="fil8" x="148" y="88" width="1.30593" height="1.8082"/>
+  <rect class="fil6 str4" x="141" y="88" width="2.00911" height="7.03192"/>
+  <g id="_298635768">
+   <rect class="fil7" x="153" y="27" width="9.24231" height="6.2119" rx="1" ry="1"/>
+   <circle class="fil1" cx="158" cy="29" r="1"/>
+   <path class="fil7" d="M158 22c2,0 4,2 4,4l-3 0c0,-1 0,-2 -1,-2 -1,0 -2,1 -2,2l-2 0c0,-2 1,-4 4,-4z"/>
+   <polygon class="fil1" points="158,29 159,32 157,32 "/>
+  </g>
  </g>
 </svg>
